@@ -6,6 +6,10 @@
 
 The **Assignment Submission Portal** is designed for seamless assignment submissions by users and efficient review and management by admins. The backend system supports registration, authentication, assignment uploads, and approval workflows.
 
+## 🎥 Video Walkthrough
+
+[![Watch the video]](https://www.youtube.com/watch?v=UuBLxBSWd9g)
+
 ## Features
 
 - **User Management**: Register, log in, and upload assignments.
